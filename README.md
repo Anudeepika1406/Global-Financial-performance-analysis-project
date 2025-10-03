@@ -104,17 +104,5 @@ Advanced Analysis: Integrate predictive analytics or what-if scenarios based on 
 User Customization: Enhance the dashboard with more complex parameters to allow decision-makers to test their own hypotheses on market and product combinations.
 
 
-Sources
-
-
-
-
-
-
-
-
-
-
-
-Tools
+![Image Alt](https://github.com/Anudeepika1406/Global-Financial-performance-analysis-project/blob/5a6e51ec42225d2900ef5bbb97a71b9bcced2568/WhatsApp%20Image%202025-10-03%20at%2018.45.52_e729df01.jpg)
 
